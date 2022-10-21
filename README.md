@@ -12,10 +12,10 @@ Blind stick is an innovative stick designed for visually disabled people for imp
 
 # Hardware Specification
 1. Arduino <br>
-2. Ultrasonic sensor<br>
+2. Ultrasonic Sensor<br>
 3. Buzzer <br>
-4. Jumper wires<br> 
-5. Power supply<br>
+4. Jumper Wires<br> 
+5. Power Supply<br>
 
 
 # Software Specification
