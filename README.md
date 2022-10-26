@@ -32,8 +32,6 @@ Blind stick is an innovative stick designed for visually disabled people for imp
 
 <a href="https://github.com/poonam-kumawat/Blind_Man_Stick_Using_Arduino">
   <img src="https://contrib.rocks/image?repo=poonam-kumawat/Blind_Man_Stick" />
-
-
 </a>
 
 
